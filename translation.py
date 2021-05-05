@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """Thank You for using me.
+    START_TEXT = """Anthada nink vende?
 /help to know how to use me
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
-© @AnyDLBot"""
+Report bugs: @featzai
+© @featzai"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"

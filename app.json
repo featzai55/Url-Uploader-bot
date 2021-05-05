@@ -16,7 +16,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1744522403:AAHybbMdxZ6ovfljLqd0W2sA-zonL_u_5K4"
     },
     "HTTP_DOMAIN": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
@@ -28,19 +28,19 @@
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": ""
+      "value": "dcd25fe0-e854-49d9-ba5b-b0c462d841e4"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2046783"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "4f092c88d01b0efa2ec242acc98a5018"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1599785200 1534060516 1033931019"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
